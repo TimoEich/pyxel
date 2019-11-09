@@ -1,2 +1,2 @@
-# pyxel
+# PYXEL
 pyxeldesign website
